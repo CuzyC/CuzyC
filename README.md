@@ -13,6 +13,9 @@
   <a href="mailto:owga.gutierrez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=owga.gutierrez@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
