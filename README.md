@@ -30,10 +30,9 @@
 
 ---
 
-<div align="center">
-
 ### 🔧 Tools
-
+<div align="center">
+  
 | Backend            | Web Frameworks             | Frontend                       | GUI                          | Dev Tools / Platforms              |
 |--------------------|----------------------------|--------------------------------|------------------------------|------------------------------------|
 | Python, C++        | Flask, Django              | HTML/CSS/JS, Bootstrap         | Tkinter, C++ (CLR)           | Raspberry Pi, VS Code, Visual Studio |
