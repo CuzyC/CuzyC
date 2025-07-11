@@ -1,4 +1,11 @@
 ## Hi there 👋I'm Owen Gutierrez 
+<h1 align="center">👋 Hi there! I'm Owen Gutierrez</h1>
+
+<p align="center">
+  <a href="https://github.com/CuzyC"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/owen-gutierrez-855567328"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:owga.gutierrez@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
 <!--
 **CuzyC/CuzyC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
