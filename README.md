@@ -1,4 +1,3 @@
-## Hi there 👋I'm Owen Gutierrez 
 <h1 align="center">👋 Hi there! I'm Owen Gutierrez</h1>
 
 <p align="center">
