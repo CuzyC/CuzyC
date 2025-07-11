@@ -30,11 +30,15 @@
 
 ---
 
+<div align="center">
+
 ### 🔧 Tools
 
-| Backend        | Web Frameworks             | Frontend                       | GUI                    |
-|----------------|----------------------------|--------------------------------|------------------------|
-| Python         | Flask, Django              | HTML/CSS/JS, Bootstrap         | Tkinter                |
+| Backend            | Web Frameworks             | Frontend                       | GUI                          | Dev Tools / Platforms              |
+|--------------------|----------------------------|--------------------------------|------------------------------|------------------------------------|
+| Python, C++        | Flask, Django              | HTML/CSS/JS, Bootstrap         | Tkinter, C++ (CLR)           | Raspberry Pi, VS Code, Visual Studio |
+
+</div>
 
 ---
 <!--
