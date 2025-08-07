@@ -44,7 +44,7 @@
   
 | Backend            | Web Frameworks             | Frontend                       | GUI                          | Dev Tools / Platforms              |
 |--------------------|----------------------------|--------------------------------|------------------------------|------------------------------------|
-| <div align="center">Python, C++</div> | <div align="center">Flask, Django</div> | <div align="center">HTML/CSS/JS, Bootstrap</div> | <div align="center">Tkinter, C++ (CLR)</div> | <div align="center">Raspberry Pi, VS Code, Visual Studio</div> |
+| <div align="center">Python, C++</div> | <div align="center">Flask, Django</div> | <div align="center">HTML/CSS/JS, Bootstrap, ReactJS</div> | <div align="center">Tkinter, C++ (CLR)</div> | <div align="center">Raspberry Pi, VS Code, Visual Studio</div> |
 
 </div>
 
