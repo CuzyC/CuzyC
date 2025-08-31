@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi there! I'm Owen Gutierrez</h1>
 
 <p align="center">
-  <a href="https://github.com/CuzyC">
+  <a href="https://github.com/CuzyC" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/owen-gutierrez-855567328">
+  <a href="https://linkedin.com/in/owen-gutierrez-855567328" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/owen.gutierrez.39">
+  <a href="https://facebook.com/owen.gutierrez.39" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
   <a href="mailto:owga.gutierrez@gmail.com">
