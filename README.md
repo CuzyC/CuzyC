@@ -56,6 +56,14 @@
   <li>🥇 <strong>Breadboarding Champion</strong> - Regional ICpEP Challenge</li>
 </ul>
 
+---
+
+### 👨‍🎓 About Me
+
+Hello, I am Owen, a Computer Engineering graduate specializing in Embedded Systems, with a strong interest in Software Development, Data Science, and Robotics.
+
+During my academic journey, I worked on several hands-on projects that deepened my understanding of hardware and software technology.
+
 <!--
 **CuzyC/CuzyC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
