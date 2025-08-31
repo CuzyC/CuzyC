@@ -60,13 +60,11 @@
 
 ### 👨‍🎓 About Me
 
-<pre>Hello, I am Owen, a Computer Engineering graduate specializing in Embedded Systems, with a strong interest in Software Development, Data Science, and Robotics.
+<p>Hello, I am Owen, a Computer Engineering graduate specializing in Embedded Systems, with a strong interest in Software Development, Data Science, and Robotics.</p>
 
-During my academic journey, I worked on several hands-on projects that deepened my understanding of hardware and software technology.
+<p>During my academic journey, I worked on several hands-on projects that deepened my understanding of hardware and software technology.</p>
 
-I'm passionate about continuous learning and innovation, always seeking new opportunities to enhance my knowledge and contribute to impactful projects. Whether it's creating more efficient algorithms, developing systems, or exploring data-driven insights, I'm excited to push the boundaries of technology and solve complex challenges.
-
-</pre>
+<p>I'm passionate about continuous learning and innovation, always seeking new opportunities to enhance my knowledge and contribute to impactful projects. Whether it's creating more efficient algorithms, developing systems, or exploring data-driven insights, I'm excited to push the boundaries of technology and solve complex challenges.</p>
 
 <!--
 **CuzyC/CuzyC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
