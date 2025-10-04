@@ -42,9 +42,9 @@
 ### 🔧 Tools
 <div align="center">
   
-| Backend            | Web Frameworks             | Frontend                       | GUI                          | Dev Tools / Platforms              |
+| Programming Language            | Web Frameworks             | Frontend                       | GUI                          | Dev Tools / Platforms              |
 |--------------------|----------------------------|--------------------------------|------------------------------|------------------------------------|
-| <div align="center">Python, C++</div> | <div align="center">Flask, Django, Bootstrap, ReactJS</div> | <div align="center">HTML/CSS/JS</div> | <div align="center">Tkinter, C++ (CLR)</div> | <div align="center">Raspberry Pi, VS Code, Visual Studio</div> |
+| <div align="center">Python, C++, Java</div> | <div align="center">Flask, Django, Bootstrap, ReactJS</div> | <div align="center">HTML/CSS/JS</div> | <div align="center">Tkinter, C++ (CLR)</div> | <div align="center">Raspberry Pi, VS Code, Visual Studio</div> |
 
 </div>
 
