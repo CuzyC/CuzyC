@@ -60,7 +60,7 @@
 
 ### 👨‍🎓 About Me
 
-<p>Hello, I am Owen, a Computer Engineering graduate specializing in Embedded Systems, with a strong interest in Software Development, Data Science, and Robotics.</p>
+<p>Hello, I am Owen, a Computer Engineering graduate, with a strong interest in Software Development, Data Science, and Robotics.</p>
 
 <p>During my academic journey, I worked on several hands-on projects that deepened my understanding of hardware and software technology.</p>
 
